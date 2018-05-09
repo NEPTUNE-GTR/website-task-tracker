@@ -1,0 +1,7 @@
+
+[   
+    { "index": 0, "name":"Bob", "actionIndex":[0, 1, 2], "actions":[ "eat", "sleep", "work" ], "priorities":[ "high", "high", "low" ], "descriptions":[ "eating is good", "sleep is life", "meh" ] },
+    { "index": 1, "name":"John","actionIndex":[0, 1, 2], "actions":[ "jog", "walk", "run" ], "priorities":[ "low", "medium", "high" ], "descriptions":[ "joging is good", "walking is easy", "running is hard" ]  },
+    { "index": 2, "name":"Phil","actionIndex":[0, 1, 2], "actions":[ "crawl", "climb", "scale" ], "priorities":[ "high", "high", "low" ], "descriptions":[ "crawl into bed", "climb a peak", "scale nothing" ]  }
+]
+ 
